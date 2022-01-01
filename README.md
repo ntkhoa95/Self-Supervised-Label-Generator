@@ -10,4 +10,4 @@ The overview of SSLG method, which consists of
 ![Self-supervised Label Generator](https://github.com/ntkhoa95/Self-Supervised-Label-Generator/blob/main/datasets/SSLG.png?raw=true)
 
 
-Thank [Dr. Hengli Wang](https://hlwang1124.github.io/) and his research team for a meaningful research.
+Thank [Dr. Hengli Wang](https://hlwang1124.github.io/) and his research team for a meaningful publication.
